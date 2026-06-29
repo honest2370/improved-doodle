@@ -1,0 +1,32 @@
+{
+  "name": "ADF - Arafat Digital Futurist",
+  "short_name": "ADF",
+  "description": "ADF - Votre partenaire digital futuriste. Services digitaux, IA, et boutique en ligne.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060d1a",
+  "theme_color": "#00d4ff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["business", "finance", "productivity"],
+  "lang": "fr",
+  "dir": "ltr",
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://nwxwwdmrwrtfqfomvpaj.supabase.co"
+    }
+  ],
+  "prefer_related_applications": false
+}
